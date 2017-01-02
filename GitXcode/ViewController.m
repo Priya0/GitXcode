@@ -18,6 +18,8 @@
     [super viewDidLoad];
     
     NSLog(@"This my first project under version controller");
+    
+     NSLog(@"This is for checking the changes under version controller");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
